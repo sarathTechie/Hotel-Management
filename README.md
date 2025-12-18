@@ -36,9 +36,7 @@ This application manages hotel bookings, calculates room prices dynamically, gen
 Hotel-Management-System/
 
 ├── main.py
-
 ├── hotel.db
-
 ├── README.md
 
 
