@@ -21,6 +21,7 @@ This application manages hotel bookings, calculates room prices dynamically, gen
 ------------------------------------------------------------
 
 🛠️ Technologies Used
+
 • Python  
 • Tkinter  
 • SQLite  
