@@ -40,6 +40,7 @@ Hotel-Management-System/
 ------------------------------------------------------------
 
 🏨 Room Types & Pricing
+
 Single – ₹2500 per day  
 Double – ₹4000 per day  
 King – ₹5500 per day  
@@ -48,12 +49,14 @@ Suite – ₹8000 per day
 ------------------------------------------------------------
 
 📈 Pricing Rules
+
 Weekend surcharge: 15%  
 Festival surcharge: 25%  
 
 ------------------------------------------------------------
 
 💸 Discounts
+
 Above ₹10,000 → 10%  
 Above ₹20,000 → 15%  
 Above ₹35,000 → 20%  
@@ -61,12 +64,14 @@ Above ₹35,000 → 20%
 ------------------------------------------------------------
 
 🎁 Loyalty Points
+
 • 5 loyalty points for every ₹200 spent  
 • Points are calculated automatically during booking  
 
 ------------------------------------------------------------
 
 📊 Dashboard
+
 The dashboard displays:
 • Total revenue  
 • Total bookings  
@@ -77,6 +82,7 @@ The dashboard displays:
 ------------------------------------------------------------
 
 📄 PDF Receipt
+
 • Generates a PDF receipt for each booking  
 • Includes guest details, room information, price, payment status, and loyalty points  
 • Saved locally with a timestamp  
@@ -84,6 +90,7 @@ The dashboard displays:
 ------------------------------------------------------------
 
 🎯 Purpose
+
 This project is developed for academic and learning purposes and demonstrates:
 • Python GUI programming  
 • Database integration  
@@ -92,6 +99,7 @@ This project is developed for academic and learning purposes and demonstrates:
 ------------------------------------------------------------
 
 📜 License
+
 This project is intended for educational use only.
 
 
